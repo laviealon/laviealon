@@ -4,7 +4,7 @@ Hi 👋 My name is Alon Lavie
 I'm a software developer and tech enthusiast.
 ---------------------------------------------
 
-In 2021, I made the switch from pre-med to computer science in the University of Toronto's [competitive out-of-stream program](link:https://www.reddit.com/r/UofT/comments/v8kb3n/cs_post_averge_out_of_stream_2022/), one of the hardest things I've ever done. I'm now jumpstarting my tech career. I love building useful things and meeting/working with talented people. Please reach out if you would like to connect!
+In 2021, I made the switch from pre-med to computer science in the University of Toronto's [competitive out-of-stream program](https://www.reddit.com/r/UofT/comments/v8kb3n/cs_post_averge_out_of_stream_2022/), one of the hardest things I've ever done. I'm now jumpstarting my tech career. I love building useful things and meeting/working with talented people. Please reach out if you would like to connect!
 
 * 🌍  I'm based in Toronto, Canada.
 * ✉️  You can contact me at [alon.lavie55@gmail.com](mailto:alon.lavie55@gmail.com)
